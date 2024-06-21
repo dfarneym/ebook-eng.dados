@@ -1,4 +1,4 @@
-# Projeto EBOOK Gerado por I.A.s
+# EBOOK Gerado por IA.
 
  > Este Ebook foi desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
 
