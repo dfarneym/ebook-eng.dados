@@ -1,4 +1,4 @@
-# EBOOK Gerado por IA.
+# Ebook criado por IA.
 
  > Este Ebook foi desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
 
